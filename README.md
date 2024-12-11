@@ -24,6 +24,9 @@ Welcome to the **Credit Card Encryption and Decryption** project! This tool help
 
 Check out the [YouTube video](https://youtu.be/YlHqAhLWmFU) for a detailed demonstration of how to use this tool.
 
+## Check the output of the project
+![Home Page](Output/1.png)
+
 ## Quiz Time! 🤓
 
 1. **What does encryption do?**  
