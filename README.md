@@ -26,6 +26,8 @@ Check out the [YouTube video](https://youtu.be/YlHqAhLWmFU) for a detailed demon
 
 ## Check the output of the project
 ![Home Page](Output/1.png)
+![Encryption Page](Output/2.png)
+![Decryption Page](Output/3.png)
 
 ## Quiz Time! 🤓
 
